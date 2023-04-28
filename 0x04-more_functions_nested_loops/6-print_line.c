@@ -5,6 +5,7 @@
  * @n: The number of lines to draw
  * Return: empty
  */
+
 void print_lines(int n)
 
 {
