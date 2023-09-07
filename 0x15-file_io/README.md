@@ -1,2 +1,3 @@
-#0x15. C - File I/O
-Directory containing the mandatory and advanced task solutions of the file above(0x15.C - File I/O)
+README.md file on 0x15 file-i/o
+
+Answers to various tasks on the above directory
